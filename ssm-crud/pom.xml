@@ -125,7 +125,7 @@
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
-			<version>2.10.0</version>
+			<version>2.12.7.1</version>
 		</dependency>
 		<!--JSR303数据校验支持 tomcat 7以上直接导入就可以。 tomcat 7以下 的服务器 el表达式，不强。额外要给服务器的lib包中替换新的标准el -->
 		<!-- https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator -->
